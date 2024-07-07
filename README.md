@@ -9,5 +9,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Moviesbolt
-It is app which give information related to movies,actor and tv showes
->>>>>>> ab1197cb22efbd0556f7ecee3a5079df7f23ea4b
+It is app which give information related to movies, tv showes and actor related to the movies and tv showes 
+
+Live Link for the project ===>    https://moviesbolt.vercel.app/
+
